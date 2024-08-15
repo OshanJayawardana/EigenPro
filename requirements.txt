@@ -7,3 +7,5 @@ tabulate
 termcolor
 tqdm
 datasets
+pytest
+unittest

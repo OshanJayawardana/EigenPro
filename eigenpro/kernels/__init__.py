@@ -8,7 +8,5 @@ from eigenpro.kernels.standard_kernels import (
 )
 
 from eigenpro.kernels.sequence_kernels import (
-    hamming_ker_imq,
-    hamming_ker_dot,
-    hamming_ker_exp,
+    hamming_imq,
 )
